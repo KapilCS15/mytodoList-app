@@ -1,6 +1,6 @@
 # mytodoList-app
 ## A Basic To-Do Web Application using Django Framework
-A Todo List app that can help to jot down some ideas and important tasks .This the basic project on python with django framework for demonstrate the CRUD (create,retrive,update,delete) method of django
+A Todo List app that can help to jot down some ideas and important tasks .This the basic project on python with django framework for demonstrate the CRUD (create,retrive,update,delete) method of django.
 
 ## Features
 #### Create
