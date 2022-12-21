@@ -16,7 +16,7 @@ A Todo List app that can help to jot down some ideas and important tasks .This t
 1. Python
 2. Django
 3. Bootstrap
-4. JavaScript
+4. HTML/CSS
 
 ## Explore
 Try it out by installing the requirements. (Works only with python >= 3.8, due to Django 4)
@@ -33,3 +33,5 @@ And then start the server (default: http://localhost:8000)
 python manage.py runserver
 ```
 Now you can browse the API or start on the landing page
+
+<img width="954" alt="Screenshot_20221221_225741" src="https://user-images.githubusercontent.com/86887239/208971629-cb55ee8d-3661-4192-a923-c2296e1d323c.png">
