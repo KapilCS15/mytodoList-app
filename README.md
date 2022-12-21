@@ -35,3 +35,4 @@ python manage.py runserver
 Now you can browse the API or start on the landing page
 
 <img width="954" alt="Screenshot_20221221_225741" src="https://user-images.githubusercontent.com/86887239/208971629-cb55ee8d-3661-4192-a923-c2296e1d323c.png">
+<img width="941" alt="Screenshot_20221221_230558" src="https://user-images.githubusercontent.com/86887239/208971856-a1fc2fe4-4808-47e0-a884-52a1981bb775.png">
